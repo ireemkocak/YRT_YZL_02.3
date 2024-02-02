@@ -1,2 +1,2 @@
-# YRT_YZL_02.3
+# YRT_YZL_2.3
 YTÜ Roket Takımı Yazılım 2. Görevi 3. Soru
